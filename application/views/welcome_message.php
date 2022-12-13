@@ -1,0 +1,542 @@
+<body>
+
+  <!-- ======= Header ======= -->
+  <header id="header" class="fixed-top  header-transparent ">
+    <div class="container d-flex align-items-center justify-content-between">
+
+      <div class="logo">
+        <h1><a href="/basid"><img class="img-fluid w-100" src="./assets/img/basid-logo.png" alt="Basid Logo"></a></h1>
+      </div>
+
+      <nav id="navbar" class="navbar">
+        <ul>
+          <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
+          <li><a class="nav-link scrollto" href="#features">App Features</a></li>
+          <li><a class="nav-link scrollto" href="#about">About</a></li>
+          <li><a class="nav-link scrollto" href="#team">Team</a></li>
+          <li><a class="nav-link scrollto" href="#faq">F.A.Q</a></li>
+          <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
+          <li><a class="getstarted scrollto" href="#features">Get Started</a></li>
+          <li><a class="getstarted scrollto" href="login">Login/Signup</a></li>
+        </ul>
+        <i class="bi bi-list mobile-nav-toggle"></i>
+      </nav><!-- .navbar -->
+
+    </div>
+  </header><!-- End Header -->
+
+  <!-- ======= Hero Section ======= -->
+  <section id="hero" class="d-flex align-items-center">
+
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-6 d-lg-flex flex-lg-column justify-content-center align-items-stretch pt-5 pt-lg-0 order-2 order-lg-1" data-aos="fade-up">
+          <div>
+            <h1>BASID: Solid Waste Monitoring System</h1>
+            <h2>Aiming for a sustainable community <br> BECOME A SCIENCE CITIZEN</h2>
+            <a href="#" class="download-btn"><i class="bx bxl-play-store"></i> Google Play</a>
+          </div>
+        </div>
+        <div class="col-lg-6 d-lg-flex flex-lg-column align-items-stretch order-1 order-lg-2 hero-img" data-aos="fade-up">
+          <img src="assets/img/hero-img-logo.png" class="img-fluid" alt="">
+        </div>
+      </div>
+    </div>
+
+  </section><!-- End Hero -->
+
+  <main id="main">
+
+    <!-- ======= App Features Section ======= -->
+    <section id="features" class="features">
+      <div class="container">
+
+        <div class="section-title">
+          <h2>App Features</h2>
+          <p>Services That We Offer To The Users</p>
+        </div>
+
+        <div class="row no-gutters">
+          <div class="col-xl-7 d-flex align-items-stretch order-2 order-lg-1">
+            <div class="content d-flex flex-column justify-content-center">
+              <div class="row">
+                <div class="col-md-6 icon-box" data-aos="fade-up">
+                  <i class="bx bx-envelope"></i>
+                  <h4>SMS Notification</h4>
+                  <p>SMS notification informs the receiver about an event such as an update on crisis or alert services.</p>
+                </div>
+                <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="100">
+                  <i class="bx bx-cube-alt"></i>
+                  <h4>Geotagging</h4>
+                  <p>Geotagging-based management contributes information regarding solid waste issues which will then be received by the authorities.</p>
+                </div>
+                <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="200">
+                  <i class="bx bx-images"></i>
+                  <h4>Website Information</h4>
+                  <p>A web application is important for citizen science projects because of the capability to monitor activities in real-time, it allows communication
+                    between the general public and authorities which helps alleviate solid waste issues.</p>
+                </div>
+                <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="300">
+                  <i class="bx bx-mobile"></i>
+                  <h4>Android OS</h4>
+                  <p>The Android OS is an open source operating system primarily used in mobile devices.</p>
+                </div>
+                <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="400">
+                  <i class="bx bx-atom"></i>
+                  <h4>Data Visualization</h4>
+                  <p>Data visualizations contain contextual information, making the information more straightforward for people to process and analyze.</p>
+                </div>
+                <div class="col-md-6 icon-box" data-aos="fade-up" data-aos-delay="500">
+                  <i class="bx bx-id-card"></i>
+                  <h4>Image Filtering (Optional)</h4>
+                  <p>Image processing refers to the process of recognizing, making algorithmic enhancements and manipulating a digital image.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="image col-xl-5 d-flex align-items-stretch justify-content-center order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
+            <img src="assets/img/features.svg" class="img-fluid" alt="">
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End App Features Section -->
+
+    <!-- ======= Details Section ======= -->
+    <section id="about" class="details">
+      <div class="container">
+
+        <div class="row content">
+          <div class="col-md-4" data-aos="fade-right">
+            <img src="assets/img/details-1.png" class="img-fluid" alt="">
+          </div>
+          <div class="col-md-8 pt-4" data-aos="fade-up">
+            <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h3>
+            <p class="fst-italic">
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+              magna aliqua.
+            </p>
+            <ul>
+              <li><i class="bi bi-check"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
+              <li><i class="bi bi-check"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
+              <li><i class="bi bi-check"></i> Iure at voluptas aspernatur dignissimos doloribus repudiandae.</li>
+              <li><i class="bi bi-check"></i> Est ipsa assumenda id facilis nesciunt placeat sed doloribus praesentium.</li>
+            </ul>
+            <p>
+              Voluptas nisi in quia excepturi nihil voluptas nam et ut. Expedita omnis eum consequatur non. Sed in asperiores aut repellendus. Error quisquam ab maiores. Quibusdam sit in officia
+            </p>
+          </div>
+        </div>
+
+        <div class="row content">
+          <div class="col-md-4 order-1 order-md-2" data-aos="fade-left">
+            <img src="assets/img/details-2.png" class="img-fluid" alt="">
+          </div>
+          <div class="col-md-8 pt-5 order-2 order-md-1" data-aos="fade-up">
+            <h3>Corporis temporibus maiores provident</h3>
+            <p class="fst-italic">
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+              magna aliqua.
+            </p>
+            <p>
+              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
+              culpa qui officia deserunt mollit anim id est laborum
+            </p>
+            <p>
+              Inventore id enim dolor dicta qui et magni molestiae. Mollitia optio officia illum ut cupiditate eos autem. Soluta dolorum repellendus repellat amet autem rerum illum in. Quibusdam occaecati est nisi esse. Saepe aut dignissimos distinctio id enim.
+            </p>
+          </div>
+        </div>
+
+        <div class="row content">
+          <div class="col-md-4" data-aos="fade-right">
+            <img src="assets/img/details-3.png" class="img-fluid" alt="">
+          </div>
+          <div class="col-md-8 pt-5" data-aos="fade-up">
+            <h3>Sunt consequatur ad ut est nulla consectetur reiciendis animi voluptas</h3>
+            <p>Cupiditate placeat cupiditate placeat est ipsam culpa. Delectus quia minima quod. Sunt saepe odit aut quia voluptatem hic voluptas dolor doloremque.</p>
+            <ul>
+              <li><i class="bi bi-check"></i> Ullamco laboris nisi ut aliquip ex ea commodo consequat.</li>
+              <li><i class="bi bi-check"></i> Duis aute irure dolor in reprehenderit in voluptate velit.</li>
+              <li><i class="bi bi-check"></i> Facilis ut et voluptatem aperiam. Autem soluta ad fugiat.</li>
+            </ul>
+            <p>
+              Qui consequatur temporibus. Enim et corporis sit sunt harum praesentium suscipit ut voluptatem. Et nihil magni debitis consequatur est.
+            </p>
+            <p>
+              Suscipit enim et. Ut optio esse quidem quam reiciendis esse odit excepturi. Vel dolores rerum soluta explicabo vel fugiat eum non.
+            </p>
+          </div>
+        </div>
+
+        <div class="row content">
+          <div class="col-md-4 order-1 order-md-2" data-aos="fade-left">
+            <img src="assets/img/details-4.png" class="img-fluid" alt="">
+          </div>
+          <div class="col-md-8 pt-5 order-2 order-md-1" data-aos="fade-up">
+            <h3>Quas et necessitatibus eaque impedit ipsum animi consequatur incidunt in</h3>
+            <p class="fst-italic">
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
+              magna aliqua.
+            </p>
+            <p>
+              Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+              velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
+              culpa qui officia deserunt mollit anim id est laborum
+            </p>
+            <ul>
+              <li><i class="bi bi-check"></i> Et praesentium laboriosam architecto nam .</li>
+              <li><i class="bi bi-check"></i> Eius et voluptate. Enim earum tempore aliquid. Nobis et sunt consequatur. Aut repellat in numquam velit quo dignissimos et.</li>
+              <li><i class="bi bi-check"></i> Facilis ut et voluptatem aperiam. Autem soluta ad fugiat.</li>
+            </ul>
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End Details Section -->
+
+    <!-- ======= Gallery Section ======= -->
+    <section id="gallery" class="gallery">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>Gallery</h2>
+          <p>Our Application's User Interface</p>
+        </div>
+
+      </div>
+
+      <div class="container-fluid" data-aos="fade-up">
+        <div class="gallery-slider swiper">
+          <div class="swiper-wrapper">
+            <div class="swiper-slide"><a href="assets/img/gallery/basid-1.jpg" class="gallery-lightbox" data-gall="gallery-carousel"><img src="assets/img/gallery/basid-1.jpg" class="img-fluid" alt=""></a></div>
+            <div class="swiper-slide"><a href="assets/img/gallery/basid-2.jpg" class="gallery-lightbox" data-gall="gallery-carousel"><img src="assets/img/gallery/basid-2.jpg" class="img-fluid" alt=""></a></div>
+            <div class="swiper-slide"><a href="assets/img/gallery/basid-3.jpg" class="gallery-lightbox" data-gall="gallery-carousel"><img src="assets/img/gallery/basid-3.jpg" class="img-fluid" alt=""></a></div>
+            <div class="swiper-slide"><a href="assets/img/gallery/basid-4.jpg" class="gallery-lightbox" data-gall="gallery-carousel"><img src="assets/img/gallery/basid-4.jpg" class="img-fluid" alt=""></a></div>
+            <div class="swiper-slide"><a href="assets/img/gallery/basid-5.jpg" class="gallery-lightbox" data-gall="gallery-carousel"><img src="assets/img/gallery/basid-5.jpg" class="img-fluid" alt=""></a></div>
+          </div>
+          <div class="swiper-pagination"></div>
+        </div>
+
+      </div>
+    </section><!-- End Gallery Section -->
+
+    
+    <!-- ======= Team Section ======= -->
+    <section id="team"> 
+        <div class="py-5 team4" data-aos="fade-up">
+          <div class="container">
+            <div class="section-title">
+              <h2>Our Team</h2>
+              <p>Meet The Team Behind the Application</p>
+            </div>
+            <div class="row justify-content-center mb-3">
+            </div>
+            <div class="row justify-content-between">
+              <!-- column  -->
+              <div class="col-lg-2 mb-4">
+                <!-- Row -->
+                <div class="row">
+                  <div class="col-md-12">
+                    <img src="./assets/img/team/Jasfer.jpg" alt="jasfer" class="img-fluid rounded-circle" />
+                  </div>
+                  <div class="col-md-12 text-center">
+                    <div class="pt-2">
+                      <h5 class="mt-4 font-weight-medium mb-0">Jasfer Unido</h5>
+                      <h6 class="subtitle mb-3">Web Developer</h6>
+                      <ul class="list-inline text-center">
+                        <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="bi bi-facebook"></i></a></li>
+                        <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="bi bi-twitter"></i></a></li>
+                        <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="bi bi-instagram"></i></a></li>
+                        <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="bi bi-github"></i></a></li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+                <!-- Row -->
+              </div>
+              <!-- column  -->
+              <!-- column  -->
+              <div class="col-lg-2 mb-4">
+                <!-- Row -->
+                <div class="row">
+                  <div class="col-md-12">
+                    <img src="./assets/img/team/laurence.jpg" alt="laurence" class="img-fluid rounded-circle" />
+                  </div>
+                  <div class="col-md-12 text-center">
+                    <div class="pt-2">
+                      <h5 class="mt-4 font-weight-medium mb-0">Laurence Ligan</h5>
+                      <h6 class="subtitle mb-3">Mobile Developer</h6>
+                      <ul class="list-inline text-center">
+                        <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="bi bi-facebook"></i></a></li>
+                        <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="bi bi-twitter"></i></a></li>
+                        <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="bi bi-instagram"></i></a></li>
+                        <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="bi bi-github"></i></a></li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+                <!-- Row -->
+              </div>
+              <!-- column  -->
+              <!-- column  -->
+              <div class="col-lg-2 mb-4">
+                <!-- Row -->
+                <div class="row">
+                  <div class="col-md-12">
+                    <img src="./assets/img/team/ruzzelle.jpg" alt="ruzzelle" class="img-fluid rounded-circle" />
+                  </div>
+                  <div class="col-md-12 text-center">
+                    <div class="pt-2">
+                      <h5 class="mt-4 font-weight-medium mb-0">Ruzzelle Otadoy</h5>
+                      <h6 class="subtitle mb-3">Lead Designer</h6>
+                      <ul class="list-inline text-center">
+                        <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="bi bi-facebook"></i></a></li>
+                        <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="bi bi-twitter"></i></a></li>
+                        <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="bi bi-instagram"></i></a></li>
+                        <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="bi bi-github"></i></a></li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+                <!-- Row -->
+              </div>
+              <!-- column  -->
+              <!-- column  -->
+              <div class="col-lg-2 mb-4">
+                <!-- Row -->
+                <div class="row">
+                  <div class="col-md-12">
+                    <img src="./assets/img/team/matthew.jpg" alt="matthew" class="img-fluid rounded-circle" />
+                  </div>
+                  <div class="col-md-12 text-center">
+                    <div class="pt-2">
+                      <h5 class="mt-4 font-weight-medium mb-0">Matthew Jimoya</h5>
+                      <h6 class="subtitle mb-3">Backend Developer</h6>
+                      <ul class="list-inline text-center">
+                        <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="bi bi-facebook"></i></a></li>
+                        <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="bi bi-twitter"></i></a></li>
+                        <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="bi bi-instagram"></i></a></li>
+                        <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="bi bi-github"></i></a></li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+                <!-- Row -->
+              </div>
+              <div class="col-lg-2 mb-4">
+                <!-- Row -->
+                <div class="row">
+                  <div class="col-md-12">
+                    <img src="./assets/img/team/adviser.jpg" alt="adviser" class="img-fluid rounded-circle" />
+                  </div>
+                  <div class="col-md-12 text-center">
+                    <div class="pt-2">
+                      <h5 class="mt-4 font-weight-medium mb-0">Dr. Junar A. Landicho</h5>
+                      <h6 class="subtitle mb-3">Adviser</h6>
+                      <ul class="list-inline text-center">
+                        <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="bi bi-facebook"></i></a></li>
+                        <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="bi bi-twitter"></i></a></li>
+                        <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="bi bi-instagram"></i></a></li>
+                        <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="bi bi-github"></i></a></li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+                <!-- Row -->
+              </div>
+            </div>
+          </div>
+        </div>
+        </div> <!----END OF TEAM SECTION-->
+    </section>
+
+    <!-- ======= Frequently Asked Questions Section ======= -->
+    <section id="faq" class="faq section-bg">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+
+          <h2>Frequently Asked Questions</h2>
+          <p>What Can We Help You Find?</p>
+        </div>
+
+        <div class="accordion-list">
+          <ul>
+            <li data-aos="fade-up">
+              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" class="collapse" data-bs-target="#accordion-list-1">What is BASID Application? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+              <div id="accordion-list-1" class="collapse show" data-bs-parent=".accordion-list">
+                <p>
+                  BASID is an application that will focus on monitoring solid waste that helps the citizen science community of Cagayan de Oro City in making relevant policies and programs to combat solid waste issues. The limitations of this study are android-based devices, the need of internet connection to use the mobile app and the prospect client to use the web application for monitoring.
+                </p>
+              </div>
+            </li>
+
+            <li data-aos="fade-up" data-aos-delay="100">
+              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#accordion-list-2" class="collapsed">Who are behind the project BASID? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+              <div id="accordion-list-2" class="collapse" data-bs-parent=".accordion-list">
+                <p>
+                  The project BASID Application was developed by University of Science and Technology of Southern Philipines (USTP-CDO) students.
+                </p>
+              </div>
+            </li>
+            <li data-aos="fade-up" data-aos-delay="300">
+              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#accordion-list-4" class="collapsed">How do I contact the BASID Team? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+              <div id="accordion-list-4" class="collapse" data-bs-parent=".accordion-list">
+                <p>
+                  The BASID Team can be reached at basid@gmail.com. You may also visit us at USTP-CDO campus.
+                </p>
+              </div>
+            </li>
+
+            <li data-aos="fade-up" data-aos-delay="400">
+              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#accordion-list-5" class="collapsed">Tortor vitae purus faucibus ornare. Varius vel pharetra vel turpis nunc eget lorem dolor? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+              <div id="accordion-list-5" class="collapse" data-bs-parent=".accordion-list">
+                <p>
+                  Laoreet sit amet cursus sit amet dictum sit amet justo. Mauris vitae ultricies leo integer malesuada nunc vel. Tincidunt eget nullam non nisi est sit amet. Turpis nunc eget lorem dolor sed. Ut venenatis tellus in metus vulputate eu scelerisque.
+                </p>
+              </div>
+            </li>
+
+          </ul>
+        </div>
+
+      </div>
+    </section><!-- End Frequently Asked Questions Section -->
+
+    <!-- ======= Contact Section ======= -->
+    <section id="contact" class="contact">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>Contact</h2>
+          <p>Contact Us Through These Informations Below</p>
+        </div>
+
+        <div class="row">
+
+          <div class="col-lg-6">
+            <div class="row">
+              <div class="col-lg-6 info">
+                <i class="bx bx-map"></i>
+                <h4>Address</h4>
+                <p>CM Recto,<br>Lapasan, Cagayan de Oro City</p>
+              </div>
+              <div class="col-lg-6 info">
+                <i class="bx bx-phone"></i>
+                <h4>Call Us</h4>
+                <p>+1 5589 55488 55<br>+1 5589 22548 64</p>
+              </div>
+              <div class="col-lg-6 info">
+                <i class="bx bx-envelope"></i>
+                <h4>Email Us</h4>
+                <p>basid@gmail.com<br>basidesign@gmail.com</p>
+              </div>
+              <div class="col-lg-6 info">
+                <i class="bx bx-time-five"></i>
+                <h4>Working Hours</h4>
+                <p>Mon - Fri: 9AM to 5PM<br>Sunday: 9AM to 1PM</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-6">
+            <form action="forms/contact.php" method="post" role="form" class="php-email-form" data-aos="fade-up">
+              <div class="form-group">
+                <input placeholder="Your Name" type="text" name="name" class="form-control" id="name" required>
+              </div>
+              <div class="form-group mt-3">
+                <input placeholder="Your Email" type="email" class="form-control" name="email" id="email" required>
+              </div>
+              <div class="form-group mt-3">
+                <input placeholder="Subject" type="text" class="form-control" name="subject" id="subject" required>
+              </div>
+              <div class="form-group mt-3">
+                <textarea placeholder="Message" class="form-control" name="message" rows="5" required></textarea>
+              </div>
+              <div class="my-3">
+                <div class="loading">Loading</div>
+                <div class="error-message"></div>
+                <div class="sent-message">Your message has been sent. Thank you!</div>
+              </div>
+              <div class="text-center"><button type="submit">Send Message</button></div>
+            </form>
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Contact Section -->
+
+  </main><!-- End #main -->
+
+  <!-- ======= Footer ======= -->
+  <footer id="footer">
+
+    <div class="footer-newsletter">
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-lg-6">
+            <h4>Join Our Newsletter</h4>
+            <p>Subscribe to Us!</p>
+            <form action="" method="post">
+              <input type="email" name="email"><input type="submit" value="Subscribe">
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="footer-top">
+      <div class="container">
+        <div class="row">
+
+          <div class="col-lg-4 col-md-6 footer-contact">
+            <h3>BASID</h3>
+            <p>
+              CM Recto <br>
+              Cagayan de Oro, 9000<br>
+              Philippines <br><br>
+              <strong>Phone:</strong> 09-000-000-000<br>
+              <strong>Email:</strong> basid@gmail.com<br>
+            </p>
+          </div>
+
+          <div class="col-lg-4 col-md-6 footer-links">
+            <h4>Useful Links</h4>
+            <ul>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">About us</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Services</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
+            </ul>
+          </div>
+
+          
+
+          <div class="col-lg-4 col-md-6 footer-links">
+            <h4>Our Social Networks</h4>
+            <p>Contact us through these social media accounts</p>
+            <div class="social-links mt-3">
+              <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
+              <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
+              <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
+              <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
+              <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+    <div class="container py-4">
+      <div class="copyright">
+        &copy; Copyright <strong><span>BASIDTeam</span></strong>. All Rights Reserved
+      </div>
+      <div class="credits">
+        Designed by <a href="#">BASIDesign</a>
+      </div>
+    </div>
