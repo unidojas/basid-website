@@ -57,3 +57,6 @@ $route['login'] = 'login';
 $route['register'] = 'login/register';
 
 $route['register/register_user']  = 'login/register_user';
+
+$route['mobile_login'] = 'login/mobile_login';
+$route['mobile_register'] = 'login/mobile_register';
