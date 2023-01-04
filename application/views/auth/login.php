@@ -26,7 +26,6 @@
   </header><!-- End Header -->
     
 <section class="container">
-
     <?php if ($this->session->flashdata('success')) { ?>
         <div class="alert alert-success"> <?= $this->session->flashdata('success') ?> </div>
     <?php } ?>

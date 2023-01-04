@@ -24,4 +24,11 @@ class Home extends CI_Controller {
 		$this->load->view('welcome_message');
 		$this->load->view('includes/footer');
 	}
+
+	public function heatmap()
+	{
+		$this->load->view('includes/header');
+		$this->load->view('views/heatmap');
+		$this->load->view('includes/footer');
+	}
 }

@@ -58,5 +58,9 @@ $route['register'] = 'login/register';
 
 $route['register/register_user']  = 'login/register_user';
 
-$route['mobile_login'] = 'login/mobile_login';
-$route['mobile_register'] = 'login/mobile_register';
+$route['mobile_login'] = 'API/mobile_login';
+$route['mobile_register'] = 'API/mobile_register';
+$route['mobile_upload'] = 'API/mobile_upload';
+$route['mobile_report'] = 'API/mobile_report';
+
+$route['heatmap'] = 'home/heatmap';

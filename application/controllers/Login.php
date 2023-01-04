@@ -59,48 +59,6 @@ class Login extends CI_Controller {
                 redirect('register');
             }
         }
-       
     }
 
-
-	public function mobile_login(){
-
-		$email_exists = $this->user->check_email($_POST['email']);
-
-        if(!$email_exists) {
-			$val = json_encode('{ "message": "Email does not exist!"}');
-        } else {
-			$authenticate = $this->user->authenticate($_POST['email'], $_POST['password']);
-
-			if ($authenticate) {
-				$val = json_encode('{ "message": "Success"}');
-			} else {
-				$val = json_encode('{ "message": "Wrong password!"}');
-			}
-		}
-
-		print($val);
-		return $val;
-	}
-
-
-	public function mobile_register(){
-
-		$email_exists = $this->user->check_email($_POST['email']);
-
-        if($email_exists) {
-			$val = json_encode('{ "message": "Email already exist!"}');
-        } else {
-            $result = $this->user->insert_user($_POST);
-
-            if ($result) {
-                $val = json_encode('{ "message": "Success"}');
-            } else {
-                $val = json_encode('{ "message": "Error registering!"}');
-            }
-        }
-
-		print($val);
-		return $val;
-	}
 }
